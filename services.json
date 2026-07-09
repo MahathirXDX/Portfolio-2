@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "layout",
+    "title": "Portfolio Websites",
+    "description": "Clean, responsive personal sites built from scratch — like this one — tailored to show your work clearly."
+  },
+  {
+    "icon": "globe",
+    "title": "Static Websites",
+    "description": "Fast, no-database sites for small businesses, events, or personal projects, ready for GitHub Pages."
+  },
+  {
+    "icon": "github",
+    "title": "GitHub Setup",
+    "description": "Repository structure, README files, GitHub Pages deployment, and basic version control workflow."
+  },
+  {
+    "icon": "terminal",
+    "title": "Basic Python Scripts",
+    "description": "Small automation scripts, data handling, and beginner-friendly command-line tools."
+  },
+  {
+    "icon": "bug",
+    "title": "Beginner Bug Fixing",
+    "description": "Debugging help for small HTML, CSS, JavaScript, or Python issues — explained, not just fixed."
+  }
+]

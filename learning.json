@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Data Structures & Algorithms",
+    "description": "Working through arrays, linked lists, trees, and sorting algorithms with daily problem solving.",
+    "progress": 20,
+    "status": "in-progress"
+  },
+  {
+    "title": "JavaScript (DOM & ES6+)",
+    "description": "Building small interactive projects to understand the DOM, fetch API, and modern JS syntax.",
+    "progress": 30,
+    "status": "in-progress"
+  },
+  {
+    "title": "Git & GitHub Workflow",
+    "description": "Branching, pull requests, and writing commit messages that actually make sense later.",
+    "progress": 40,
+    "status": "in-progress"
+  },
+  {
+    "title": "HTML & CSS Fundamentals",
+    "description": "Semantic HTML, responsive layouts with Flexbox and Grid, and accessible design basics.",
+    "progress": 90,
+    "status": "completed"
+  },
+  {
+    "title": "Python Fundamentals",
+    "description": "Core syntax, functions, file handling, and small automation scripts.",
+    "progress": 60,
+    "status": "completed"
+  },
+  {
+    "title": "Backend with Node.js",
+    "description": "Planning to start building simple REST APIs after finishing the current DSA module.",
+    "progress": 5,
+    "status": "upcoming"
+  }
+]

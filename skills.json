@@ -1,0 +1,109 @@
+{
+  "Programming Languages": [
+    {
+      "icon": "python",
+      "name": "Python",
+      "progress": 70
+    },
+    {
+      "icon": "javascript",
+      "name": "JavaScript",
+      "progress": 55
+    },
+    {
+      "icon": "c",
+      "name": "C",
+      "progress": 80
+    }
+  ],
+  "Web Development": [
+    {
+      "icon": "html",
+      "name": "HTML5",
+      "progress": 85
+    },
+    {
+      "icon": "css",
+      "name": "CSS3",
+      "progress": 80
+    },
+    {
+      "icon": "code",
+      "name": "Responsive Design",
+      "progress": 75
+    },
+    {
+      "icon": "terminal",
+      "name": "REST APIs (basics)",
+      "progress": 30
+    }
+  ],
+  "Tools": [
+    {
+      "icon": "git",
+      "name": "Git",
+      "progress": 75
+    },
+    {
+      "icon": "github",
+      "name": "GitHub",
+      "progress": 80
+    },
+    {
+      "icon": "terminal",
+      "name": "VS Code",
+      "progress": 85
+    },
+    {
+      "icon": "terminal",
+      "name": "Command Line",
+      "progress": 60
+    }
+  ],
+  "Databases": [
+    {
+      "icon": "database",
+      "name": "MySQL",
+      "progress": 45
+    },
+    {
+      "icon": "database",
+      "name": "MongoDB (basics)",
+      "progress": 25
+    }
+  ],
+  "Operating Systems": [
+    {
+      "icon": "terminal",
+      "name": "Linux (Ubuntu)",
+      "progress": 55
+    },
+    {
+      "icon": "terminal",
+      "name": "Windows",
+      "progress": 90
+    }
+  ],
+  "Soft Skills": [
+    {
+      "icon": "users",
+      "name": "Teamwork",
+      "progress": 80
+    },
+    {
+      "icon": "book",
+      "name": "Self-Learning",
+      "progress": 90
+    },
+    {
+      "icon": "clock",
+      "name": "Time Management",
+      "progress": 65
+    },
+    {
+      "icon": "message",
+      "name": "Communication",
+      "progress": 70
+    }
+  ]
+}

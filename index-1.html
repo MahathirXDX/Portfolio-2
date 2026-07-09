@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arif Rahman \u2014 CSE Student & Developer</title>
+  <meta name="description" content="Portfolio of a Computer Science student learning to build for the web \u2014 projects, skills, and progress, updated as I go." />
+  <meta name="theme-color" content="#0a0e14" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Arif Rahman \u2014 CSE Student & Developer" />
+  <meta property="og:description" content="Portfolio of a Computer Science student learning to build for the web." />
+  <meta property="og:type" content="website" />
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><text y=%2218%22 font-size=%2218%22>&lt;/&gt;</text></svg>" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Loading screen -->
+  <div id="preloader" aria-hidden="true">
+    <div class="preloader-mark">&lt;<span>/</span>&gt;</div>
+    <div class="preloader-bar"><span></span></div>
+  </div>
+
+  <!-- Skip link for accessibility -->
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- Nav -->
+  <header class="nav-wrap">
+    <nav class="nav glass" aria-label="Primary">
+      <a href="#top" class="nav-logo" aria-label="Home">
+        <span class="logo-bracket">&lt;</span>Arif<span class="logo-bracket">/&gt;</span>
+      </a>
+      <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="navMenu" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-menu" id="navMenu">
+        <li><a href="#services" class="nav-link">Services</a></li>
+        <li><a href="#learning" class="nav-link">Learning</a></li>
+        <li><a href="#skills" class="nav-link">Skills</a></li>
+        <li><a href="#projects" class="nav-link">Projects</a></li>
+        <li><a href="#achievements" class="nav-link">Achievements</a></li>
+        <li><a href="#contact" class="nav-link nav-cta">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main">
+
+    <!-- HERO -->
+    <section id="top" class="hero">
+      <div class="hero-inner container">
+        <div class="hero-text reveal">
+          <p class="section-key">"role"<span class="punct">:</span></p>
+          <h1 class="hero-name" id="heroName">Loading&hellip;</h1>
+          <p class="hero-typed">
+            <span class="typed-prefix">&gt;_</span>
+            <span id="typedText"></span><span class="typed-cursor" aria-hidden="true">|</span>
+          </p>
+          <p class="hero-intro" id="heroIntro"></p>
+          <div class="hero-actions">
+            <a href="#projects" class="btn btn-primary">View Projects</a>
+            <a href="#contact" class="btn btn-ghost">Contact Me</a>
+          </div>
+        </div>
+        <div class="hero-photo-wrap reveal" style="--delay:120ms">
+          <div class="hero-photo-glow"></div>
+          <img id="heroPhoto" class="hero-photo" alt="Profile photo" width="320" height="320" loading="eager" />
+          <div class="hero-photo-tag glass">
+            <span class="dot dot-green"></span>
+            <span id="heroAvailability">Available</span>
+          </div>
+        </div>
+      </div>
+      <div class="hero-scroll-hint" aria-hidden="true"><span></span></div>
+    </section>
+
+    <!-- SERVICES -->
+    <section id="services" class="section">
+      <div class="container">
+        <p class="section-key reveal">"services"<span class="punct">: [</span></p>
+        <h2 class="section-title reveal">What I can help with</h2>
+        <p class="section-sub reveal">Beginner-level, but built with real care and attention to detail.</p>
+        <div class="grid services-grid" id="servicesGrid"></div>
+        <p class="section-key section-key-close reveal">]</p>
+      </div>
+    </section>
+
+    <!-- LEARNING JOURNEY -->
+    <section id="learning" class="section section-alt">
+      <div class="container">
+        <p class="section-key reveal">"currentlyLearning"<span class="punct">: [</span></p>
+        <h2 class="section-title reveal">Learning journey</h2>
+        <p class="section-sub reveal">Tracked honestly \u2014 in progress, completed, and what's next.</p>
+        <div class="timeline" id="timelineList"></div>
+        <p class="section-key section-key-close reveal">]</p>
+      </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section id="skills" class="section">
+      <div class="container">
+        <p class="section-key reveal">"skills"<span class="punct">: {</span></p>
+        <h2 class="section-title reveal">Skills so far</h2>
+        <p class="section-sub reveal">Self-rated, growing every week.</p>
+        <div class="skills-categories" id="skillsCategories"></div>
+        <p class="section-key section-key-close reveal">}</p>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="section section-alt">
+      <div class="container">
+        <p class="section-key reveal">"projects"<span class="punct">: [</span></p>
+        <h2 class="section-title reveal">Projects</h2>
+        <p class="section-sub reveal">Small builds, shipped and documented as I learn.</p>
+        <div class="grid projects-grid" id="projectsGrid"></div>
+        <p class="section-key section-key-close reveal">]</p>
+      </div>
+    </section>
+
+    <!-- ACHIEVEMENTS -->
+    <section id="achievements" class="section">
+      <div class="container">
+        <p class="section-key reveal">"achievements"<span class="punct">: [</span></p>
+        <h2 class="section-title reveal">Achievements</h2>
+        <p class="section-sub reveal">Certificates, contests, and open source \u2014 small wins along the way.</p>
+        <div class="achievements-wrap" id="achievementsWrap"></div>
+        <p class="section-key section-key-close reveal">]</p>
+      </div>
+    </section>
+
+    <!-- CONTACT / FOOTER CTA -->
+    <section id="contact" class="section contact-section">
+      <div class="container">
+        <div class="contact-card glass reveal">
+          <p class="section-key">"contact"<span class="punct">:</span></p>
+          <h2 class="contact-title">Let's build something together</h2>
+          <p class="contact-sub">Have a small project, an idea, or just want to say hi? My inbox is open.</p>
+          <div class="contact-links" id="contactLinks"></div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-links" id="footerLinks"></div>
+      <p class="footer-copy">
+        <span id="footerYear"></span> &copy; Arif Rahman. Built with HTML, CSS &amp; JavaScript.
+      </p>
+      <p class="footer-updated" id="footerUpdated"></p>
+    </div>
+  </footer>
+
+  <button id="scrollTop" class="scroll-top" aria-label="Scroll to top">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 15l-6-6-6 6"/></svg>
+  </button>
+
+  <script src="script.js"></script>
+</body>
+</html>
