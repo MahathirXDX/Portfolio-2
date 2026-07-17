@@ -2,7 +2,7 @@
   {
     "title": "Personal Portfolio Website",
     "description": "A responsive, JSON-driven portfolio built with vanilla HTML, CSS, and JavaScript — no frameworks, fully editable through data files.",
-    "screenshot": "Project.jpg",
+    "screenshot": "project.jpg",
     "technologies": [
       "HTML5",
       "CSS3",
@@ -16,7 +16,7 @@
   {
     "title": "Student Task Tracker",
     "description": "Student Task Manager is a simple and modern Android app that helps students organize tasks, assignments, exams, study schedules, and reminders in one place. It is designed to improve productivity, build consistent study habits, and make academic life more organized.",
-    "screenshot": "Project-2.png",
+    "screenshot": "project-2.png",
     "technologies": [
       "Flutter",
       "Dart",
