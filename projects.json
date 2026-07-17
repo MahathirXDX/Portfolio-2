@@ -16,7 +16,7 @@
   {
     "title": "Student Task Tracker",
     "description": "Student Task Manager is a simple and modern Android app that helps students organize tasks, assignments, exams, study schedules, and reminders in one place. It is designed to improve productivity, build consistent study habits, and make academic life more organized.",
-    "screenshot": "Project-2.jpg",
+    "screenshot": "Project-2.png",
     "technologies": [
       "Flutter",
       "Dart",
