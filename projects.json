@@ -20,7 +20,8 @@
     "technologies": [
       "Flutter",
       "Dart",
-      "Riverpod"
+      "Riverpod" ,
+      "Isar"
     ],
     "github": "",
     "liveDemo": "",
