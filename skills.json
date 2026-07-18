@@ -8,12 +8,12 @@
     {
       "icon": "javascript",
       "name": "JavaScript",
-      "progress": 55
+      "progress": 60
     },
     {
       "icon": "c",
       "name": "C",
-      "progress": 80
+      "progress": 70
     }
   ],
   "Web Development": [
@@ -35,14 +35,14 @@
     {
       "icon": "terminal",
       "name": "REST APIs (basics)",
-      "progress": 30
+      "progress": 20
     }
   ],
   "Tools": [
     {
       "icon": "git",
       "name": "Git",
-      "progress": 75
+      "progress": 30
     },
     {
       "icon": "github",
@@ -52,43 +52,43 @@
     {
       "icon": "terminal",
       "name": "VS Code",
-      "progress": 85
+      "progress": 60
     },
     {
       "icon": "terminal",
       "name": "Command Line",
-      "progress": 60
+      "progress": 20
     }
   ],
   "Databases": [
     {
       "icon": "database",
       "name": "MySQL",
-      "progress": 45
+      "progress": 10
     },
     {
       "icon": "database",
       "name": "MongoDB (basics)",
-      "progress": 25
+      "progress": 10
     }
   ],
   "Operating Systems": [
     {
       "icon": "terminal",
       "name": "Linux (Ubuntu)",
-      "progress": 55
+      "progress": 20
     },
     {
       "icon": "terminal",
       "name": "Windows",
-      "progress": 90
+      "progress": 80
     }
   ],
   "Soft Skills": [
     {
       "icon": "users",
       "name": "Teamwork",
-      "progress": 80
+      "progress": 60
     },
     {
       "icon": "book",
@@ -98,7 +98,7 @@
     {
       "icon": "clock",
       "name": "Time Management",
-      "progress": 65
+      "progress": 70
     },
     {
       "icon": "message",
