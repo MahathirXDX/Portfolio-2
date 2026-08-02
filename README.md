@@ -1,4 +1,4 @@
-# CSE Student Portfolio
+# Mahathir Portfolio
 
 A modern, dark, glassmorphism portfolio site built with plain HTML, CSS, and JavaScript — no frameworks, no build step. Every section is rendered from JSON files, so you can update your portfolio just by editing data, never the page code.
 
