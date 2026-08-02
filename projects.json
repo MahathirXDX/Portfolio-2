@@ -1,15 +1,17 @@
 [
   {
-    "title": "Personal Portfolio Website",
-    "description": "A responsive, JSON-driven portfolio built with vanilla HTML, CSS, and JavaScript — no frameworks, fully editable through data files.",
+    "title": "CSE Assignment Builder",
+    "description": "A browser-based tool to build and export CSE assignment PDFs — cover page, pseudo code, algorithm, flow chart, source code & output — all in one click.",
     "screenshot": "project.jpg",
     "technologies": [
       "HTML5",
       "CSS3",
-      "JavaScript"
+      "Vanilla JavaScript",
+      "html2canvas",
+      "jsPDF"
     ],
     "github": "https://mahathirxdx.github.io/Portfolio/",
-    "liveDemo": "https://mahathirxdx.github.io/Portfolio/",
+    "liveDemo": "https://mahathirxdx.github.io/Assistant-Maker/",
     "date": "2026-06",
     "status": "completed"
   },
