@@ -31,18 +31,20 @@
   "status": "completed"
   },
   {
-    "title": "Student Task Tracker",
-    "description": "Student Task Manager is a simple and modern Android app that helps students organize tasks, assignments, exams, study schedules, and reminders in one place. It is designed to improve productivity, build consistent study habits, and make academic life more organized.",
-    "screenshot": "Project-2.png",
+    "title": "Build Your Exam Note",
+    "description": "This is a web application designed to help students create, organize, and manage personalized study notes and exam preparation materials.",
+    "screenshot": "project-2.png",
     "technologies": [
-      "Flutter",
-      "Dart",
-      "Riverpod" ,
-      "Isar"
+      "HTML5",
+      "CSS",
+      "Vanilla Javascript" ,
+      "SortableJS",
+      "html2canvas",
+      "jsPDF"
     ],
     "github": "",
     "liveDemo": "",
-    "date": "2026-04",
-    "status": "process"
+    "date": "2026-07",
+    "status": "completed"
   }
 ]
