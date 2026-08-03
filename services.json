@@ -5,14 +5,14 @@
     "description": "Clean, responsive personal sites built from scratch — like this one — tailored to show your work clearly."
   },
   {
-    "icon": "globe",
-    "title": "Static Websites",
-    "description": "Fast, no-database sites for small businesses, events, or personal projects, ready for GitHub Pages."
+    "icon": "layout",
+    "title": "Landing Page",
+    "description": "Create a modern, responsive, and fast landing page for your business, product, or personal brand."
   },
   {
-    "icon": "github",
-    "title": "GitHub Setup",
-    "description": "Repository structure, README files, GitHub Pages deployment, and basic version control workflow."
+    "icon": "smartphone",
+    "title": "Custom Android Apps",
+    "description": "From idea to launch, I create custom Android apps that deliver great performance"
   },
   {
     "icon": "terminal",
