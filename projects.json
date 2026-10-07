@@ -16,35 +16,20 @@
     "status": "completed"
   },
   {
-  "title": "Trigonometric Task Tracker",
-  "description": "Student Task Manager is a simple and modern application designed to help students systematically organize tasks, assignments, exams, study schedules, and reminders in one place. It is built to boost productivity, foster consistent study habits, and streamline academic life.",
+  "title": "Anonymous Citizen Problem Portal",
+  "description": "A platform where citizens can anonymously report local problems, concerns, and demands for review and public awareness.",
   "screenshot": "project-3.jpg",
   "technologies": [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "Google Fonts"
+    "React.js",
+      "Vite",
+      "TypeScript" ,
+      "Tailwind CSS",
+      "Supabase",
+      "Git + Github"
   ],
   "github": "",
-  "liveDemo": "https://mahathirxdx.github.io/Diagnosis-of-trigonometric-quadrant/",
-  "date": "2026-04",
+  "liveDemo": "https://amader-moheshkali-x.pages.dev/",
+  "date": "2026-10",
   "status": "completed"
-  },
-  {
-    "title": "Build Your Exam Note",
-    "description": "This is a web application designed to help students create, organize, and manage personalized study notes and exam preparation materials.",
-    "screenshot": "project-2.png",
-    "technologies": [
-      "HTML5",
-      "CSS",
-      "Vanilla Javascript" ,
-      "SortableJS",
-      "html2canvas",
-      "jsPDF"
-    ],
-    "github": "",
-    "liveDemo": "https://mahathirxdx.github.io/Build-Your-Exam-Note/",
-    "date": "2026-07",
-    "status": "completed"
   }
 ]
