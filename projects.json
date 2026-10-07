@@ -31,5 +31,19 @@
   "liveDemo": "https://amader-moheshkali-x.pages.dev/",
   "date": "2026-10",
   "status": "completed"
-  }
+  },
+  {
+  "title": "Bangladesh Travel Map",
+  "description": "An interactive tool where users select the districts of Bangladesh they've visited from all 64, choose their own colors, and download a personalized travel map. Includes district search, division-wise grouping, and a live visited counter.",
+  "screenshot": "project-3.jpg",
+  "technologies": [
+    "SVG Map",
+    "html2canvas",
+    "React Hooks"
+  ],
+  "github": "",
+  "liveDemo": "https://mahathirxdx.github.io/Bangladesh/",
+  "date": "2026-10",
+  "status": "completed"
+}
 ]
